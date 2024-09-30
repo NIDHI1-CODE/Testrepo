@@ -2,12 +2,17 @@ main()
 {
 add()
 {
-  print("Addition");
+  printf("Addition");
 }
-sub();
+sub()
+{
+  printf("Substraction");
+}
+
 mul()
 {
   printf("Multiplication");
 }
+
 div();
 }
