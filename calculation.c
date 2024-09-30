@@ -14,5 +14,8 @@ mul()
   printf("Multiplication");
 }
 
-div();
+div()
+{
+  printf("Division");
+}
 }
