@@ -13,6 +13,6 @@ mul()
 {
   printf("Multiplication");
 }
-
+printf("New");
 div();
 }
