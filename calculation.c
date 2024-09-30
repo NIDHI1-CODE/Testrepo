@@ -13,6 +13,12 @@ mul()
 {
   printf("Multiplication");
 }
+
+
+div()
+{
+  printf("Division");
+}
 printf("New");
-div();
+
 }
